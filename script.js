@@ -10,3 +10,4 @@ function addRow() {
   cell2.innerHTML = "Kabir";
   cell3.innerHTML = "Physics";
 }
+ 
